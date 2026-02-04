@@ -34,8 +34,6 @@ Shortest path is NOT always the best path.
     * Flat or negative voice tone.
 * **Action:** If detected, the robot must increase physical distance (Proximity adjustment) and switch to passive observation mode.
 
-## License
-MIT License
 ## 5. UI/UX for Cognitive Decline (Physical Prompting)
 When cognitive processing fails, **Physics never fails.**
 Instead of verbal commands ("Please stand up"), use **Physiology & Kinematics** to make the movement inevitable.
@@ -46,3 +44,5 @@ Instead of verbal commands ("Please stand up"), use **Physiology & Kinematics** 
     2.  **COG Shift:** Robot guides the upper body forward.
     3.  **Inevitable Reaction:** Once COG passes the critical point of the BOS, the patient's **Postural Control System** automatically triggers leg extension to prevent falling.
     * *Result:* The patient stands up "reflexively" without needing to understand the verbal instruction.
+## License
+MIT License
