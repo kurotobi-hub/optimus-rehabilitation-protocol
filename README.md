@@ -36,3 +36,13 @@ Shortest path is NOT always the best path.
 
 ## License
 MIT License
+## 5. UI/UX for Cognitive Decline (Physical Prompting)
+When cognitive processing fails, **Physics never fails.**
+Instead of verbal commands ("Please stand up"), use **Physiology & Kinematics** to make the movement inevitable.
+
+* **The Principle:** Do not force the patient to move. Adjust the environment (BOS & COG) so that the movement becomes the only natural physical response.
+* **Algorithm (Sit-to-Stand):**
+    1.  **BOS Optimization:** Robot ensures patient's feet are grounded and stable.
+    2.  **COG Shift:** Robot guides the upper body forward.
+    3.  **Inevitable Reaction:** Once COG passes the critical point of the BOS, the patient's **Postural Control System** automatically triggers leg extension to prevent falling.
+    * *Result:* The patient stands up "reflexively" without needing to understand the verbal instruction.
